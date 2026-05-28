@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# CS50 specific
+*.db
